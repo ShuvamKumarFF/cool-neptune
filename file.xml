@@ -1,0 +1,5 @@
+﻿<Response>
+<Say voice="alice"> Hello Shuvam, Kaise ho ? </Say>
+<Pause length="1"/>
+<Say voice="alice" > नमस्ते , कैसे हो ?</Say>
+</Response>
